@@ -1,5 +1,5 @@
 # Adding /dev/sex for the funnies
-- made by /usr/bin/ducc in collaboration with me
+- made by https://github.com/Laith-GLaDOS in collaboration with me
 
 # How to install
 - run `git clone https://github.com/tryzen-0/dev-sex.git`
