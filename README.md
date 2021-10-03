@@ -1,6 +1,9 @@
 # Adding /dev/sex for the funnies
 - made by https://github.com/Laith-GLaDOS in collaboration with me
 
+License originally was GPL on the c file
+im assuming it was v3 so i updated it to be more clearer cuz there wasnt any option for GPL so i picked V3
+
 # How to install
 - run `git clone https://github.com/tryzen-0/dev-sex.git`
 - run `cd dev-sex`
