@@ -3,7 +3,7 @@
 #include <linux/kernel.h>
 #include <linux/fs.h>
 #include <asm/uaccess.h>
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("GPLv3");
 MODULE_AUTHOR("/usr/bin/ducc");
 MODULE_DESCRIPTION("The all-new very useful /dev/sex module");
 MODULE_VERSION("1.0.1");
